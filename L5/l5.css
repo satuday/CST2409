@@ -1,0 +1,23 @@
+ * {
+     font-family:verdana;
+     font-size:10pt;
+ }
+ div {
+     background-color:black;
+     color:white;
+     font-weight:bold;
+     height:50px;
+     width:50px;
+     padding:3px;
+     display:inline-block;
+     margin:1px;
+ }
+ label{
+     color:blue;
+     font-weight:bold;
+ }
+ .highLight{
+     background-color:red;
+     color:white;
+ }
+ 

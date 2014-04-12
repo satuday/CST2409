@@ -1,0 +1,11 @@
+#leftPan ul.one li.selected a{
+    background-color:#cc0000;
+    background-image:url('images/arrow2.gif');
+    color:#fff;
+}
+
+/*#leftPan .on .selected a ::selection{*/
+/*    background-color:#cc0000;*/
+/*    background-image:url('images/arrow2.gif');*/
+/*    color:#fff;*/
+/*}*/

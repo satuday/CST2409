@@ -1,0 +1,29 @@
+*
+{
+	font-family: verdana;
+	font-size: 10pt;
+}
+div
+{
+	/* this is a comment */
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	height: 20px;
+	width: 50px;
+	padding: 3px;
+	display:inline-block;
+	text-align: center;
+	margin: 1px;
+}
+label
+{
+	color: blue;
+	font-weight:bold;
+}
+
+.highLight
+{
+	background-color: red ;
+	color: white ;
+}
