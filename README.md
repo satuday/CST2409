@@ -24,6 +24,10 @@ The Cloud9 IDE team
 
 ## Support & Documentation
 
+## Github ######################
+https://help.github.com/articles/dealing-with-non-fast-forward-errors
+
+
 ###### Mysql connection ########
 https://c9.io/site/blog/2013/05/mysql-for-every-workspace/
 Option	     Value	    Comment
