@@ -47,7 +47,24 @@ div.peoples-name
 div.title-name
 {
 	color: #CC0000;
-	width:300px;
+	width:270px;
+	height:20px;
+	background-color: #fff;
+	font: 11px/22px Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 3px 0 3px 0px;
+	display: inline-block;
+	margin-bottom: 3px;
+	font-weight: bold;
+	text-indent: 16px;
+	border: 1px solid #CC0000
+}
+
+div.pSalary
+{
+	color: #CC0000;
+	width:350px;
 	height:20px;
 	background-color: #fff;
 	font: 11px/22px Arial, Helvetica, sans-serif;
@@ -66,7 +83,7 @@ div.title-name
 }
 
 #bodyPan{
-	width: 680px;
+	width: 750px;
 
 }
 

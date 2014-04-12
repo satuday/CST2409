@@ -9,7 +9,7 @@ ul{list-style-type:none;}
 /*----Left Panel----*/
 #leftPan{width:155px; float:left; background:#FFFCF4; color:#582902; border-bottom:1px solid #E3DDCD; border-left:1px solid #E3DDCD; border-right:1px solid #E3DDCD; padding:48px 0 0;}
 
-#leftPan ul.one{width:127px; height:177px; margin:0 0 22px 14px;}
+#leftPan ul.one{width:127px; /* height:200px*/; margin:0 0 22px 14px;}
 #leftPan ul.one li{width:127px; height:21px; border-bottom:1px solid #E3DDCD;}
 #leftPan ul.one li a{width:93px; height:21px; display:block; background:url(images/arrow1.gif) 23px 8px no-repeat #FFFCF4; color:#40361B; font:11px/22px Arial, Helvetica, sans-serif; text-transform:uppercase; text-decoration:none; padding:0 0 0 34px;}
 #leftPan ul.one li a:hover{background:url(images/arrow2.gif) 23px 8px no-repeat #CC0000; color:#fff; text-decoration:none; padding:0 0 0 34px;}
@@ -21,7 +21,7 @@ ul{list-style-type:none;}
 #fastformPan form.formone h2{width:117px; height:23px; background:#574A22; color:#fff; font:20px/22px "Trebuchet MS",Arial, Helvetica, sans-serif; padding:0 0 0 10px;}
 #fastformPan form.formone select{width:104px; height:18px; background:#fff; color:#000; font:11px/18px Verdana, Arial, Helvetica, sans-serif; font-weight:normal; margin:7px 0 0 10px;}
 
-#submitPan{width:61px; height:20px; position:absolute; top:360px; left:70px;}
+#submitPan{width:61px; height:20px; /*position:absolute;*/ top:360px; left:70px;}
 #fastformPan form input{width:61px; height:20px; display:block; background:url(images/button.gif) 0 0 no-repeat #E3DDCD; color:#fff; border:none; font:11px/20px Verdana, Arial, Helvetica, sans-serif; font-weight:bold; text-align:center; text-transform:uppercase;}
 
 #fastformPan form label{width:40px; height:10px; display:block; float:left; background:#E3DDCD; color:#574A22; font:10px/10px Verdana, Arial, Helvetica, sans-serif; margin:10px 0 0; padding:0 0 0 5px;}

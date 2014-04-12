@@ -26,6 +26,7 @@
 		<li class="<?php echo select('services') ?>"><a href="services.php?menu=services">services</a></li>
 		<li class="<?php echo select('People') ?>"><a href="people.php?menu=people">People</a></li>
 		<li class="<?php echo select('Title') ?>"><a href="title.php?menu=Title">Title</a></li>
+		<li class="<?php echo select('peoplesalary') ?>"><a href="peoplesalary.php?menu=peoplesalary">People Salary</a></li>
 		<li class="<?php echo select('University') ?>"><a href="services.php?menu=University">University</a></li>
 		<li class="<?php echo select('books') ?>"><a href="services.php?menu=books">books</a></li>
 		<li class="<?php echo select('Discount') ?>"><a href="services.php?menu=Discount">Discount</a></li>

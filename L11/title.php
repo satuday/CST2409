@@ -75,7 +75,6 @@
                 $str = $salary > 86 ? "K*" : "K";
                 
                 $uTag = str_ireplace($wildCardCrt , "<u>" . $wildCardCrt . "</u>", $lastName);
-
                 
             ?>
                 <div class="<?php echo $genderClass ?>">
