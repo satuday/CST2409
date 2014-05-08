@@ -1,0 +1,68 @@
+    -> 
+    -> (mentIdintnot null,
+    -> 
+    -> peopleIdintnot null,
+    -> 
+    -> projectIdintnot null,
+    -> 
+    -> primary key(assignmentId)
+    -> 
+    -> );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ments
+
+(mentIdintnot null,
+
+peopleIdintnot null,
+
+projectIdintnot null,
+
+primary' at line 1
+mysql> 
+mysql> 
+mysql> 
+mysql> 
+mysql> 
+mysql> show tables;
+Empty set (0.00 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| Consultants        |
+| c9                 |
+| consultants        |
+| mysql              |
++--------------------+
+5 rows in set (0.00 sec)
+
+mysql> use consultants
+Database changed
+mysql> show tables;
+Empty set (0.00 sec)
+
+mysql> show table;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+mysql> create tabletitle
+    -> 
+    -> (tee not null,
+    -> 
+    -> descriptionvarchar(100),
+    -> 
+    -> salaryRange1decimal(18,2),
+    -> 
+    -> salaryRange2decimal(18,2),
+    -> 
+    -> primary key(titleId)
+    -> 
+    -> );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tabletitle
+
+(tee not null,
+
+descriptionvarchar(100),
+
+salaryRange1decimal(18,2),' at line 1
+mysql> Ctrl-C -- exit!
+Aborted

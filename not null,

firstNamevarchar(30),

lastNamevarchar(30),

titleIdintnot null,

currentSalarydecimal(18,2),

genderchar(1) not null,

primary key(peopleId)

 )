@@ -1,0 +1,8 @@
+    -> 
+    -> projectNamevarchar(100),
+    -> 
+    -> budgetdecimal(18,2),
+    -> 
+    -> primary key(projectId)
+    -> 
+    -> );ments

@@ -1,8 +1,8 @@
 <?php
 
-$con=mysqli_connect("127.6.40.1","satuday","","Consultants");
+$con=mysqli_connect("127.12.44.129","satuday","","consultants");
 
-$result = mysqli_query($con, "select * from People");
+$result = mysqli_query($con, "select * from people");
 
 while($row = mysqli_fetch_array($result)){
     print_r($row);

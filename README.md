@@ -36,7 +36,7 @@ Port	     3306	    The default MySQL port number
 User	     $C9_USER	Your Cloud9 user name
 Password	 -	        No password since you can only access the DB from within the workspace
 Database	 c9	        The database name
-$con=mysqli_connect("127.6.40.1","satuday","","Consultants");
+$con=mysqli_connect("127.12.44.129","satuday","","consultants");
 
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
 To watch some training videos, visit http://www.youtube.com/user/c9ide
